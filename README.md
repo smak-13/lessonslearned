@@ -4,7 +4,7 @@ Lessons Learned
 Project 1
 - Keep ideas simple
     - Stick to requirements
-- Make sure API provides information required beforejumping into details about the vision of the project
+- Make sure API provides information required before jumping into details about the vision of the project
 - Spend more time planning together as a group 
 - Discuss vision of the project together
 - As a group, break down and assign owner to each task - identify nice to have vs must have 
