@@ -17,4 +17,4 @@ Project 1
 - Encourage group collaboration, communication is key!
 - Discuss availability of each team members 
     - Daniel ( 4pm - 8PM)
-- Additional Zoom meetings will be schedule as per needed 
+- Additional Zoom meetings will be schedule on an as-needed basis
