@@ -1,5 +1,5 @@
 
-Group Lessons Learned 
+Lessons Learned
 
 Project 1
 - Keep ideas simple
