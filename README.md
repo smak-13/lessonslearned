@@ -8,7 +8,7 @@ Project 1
 - Spend more time planning together as a group 
 - Discuss vision of the project together
 - As a group, break down and assign owner to each task - identify nice to have vs must have 
-- Roles are not restricted to only front and back end. Each team member to help with any outstanding task required :)
+- Roles are not restricted to only front and back end. Each team member will assist with any outstanding task required :)
 - Start with the bare skeleton of the project to ensure everything works before adding additional “nice to haves” features 
 - Identify roles and responsibilities of each team member
   - assign a PM and Github Grooming Master 
