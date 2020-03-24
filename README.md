@@ -7,7 +7,7 @@ Project 1
 - Make sure API provides information required before jumping into details about the vision of the project
 - Spend more time planning together as a group 
 - Discuss vision of the project together
-- As a group, break down and assign owner to each task - identify nice to have vs must have 
+- As a group, break down and assign owner to each task - identify "Nice to haves vs Must haves" 
 - Roles are not restricted to only front and back end. Each team member will assist with any outstanding task required :)
 - Start with the bare skeleton of the project to ensure everything works before adding additional “nice to haves” feature
 - Identify roles and responsibilities of each team member
